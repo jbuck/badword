@@ -1,6 +1,6 @@
 {
   "name": "badword",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "See if a word is bad",
   "main": "index.js",
   "scripts": {
