@@ -1,0 +1,21 @@
+{
+  "name": "badword",
+  "version": "0.0.0",
+  "description": "See if a word is bad",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jbuck/badword.git"
+  },
+  "keywords": [
+    "swear",
+    "bad",
+    "word",
+    "list"
+  ],
+  "author": "Jon Buckley <jon@jbuckley.ca>",
+  "license": "Apache-2.0"
+}
